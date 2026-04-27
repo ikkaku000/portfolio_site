@@ -63,8 +63,8 @@ export default function RootLayout({
       lang="ja"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-zinc-50 text-zinc-900">
-        <header className="border-b border-zinc-200 bg-white/90 backdrop-blur">
+      <body className="min-h-full flex flex-col bg-zinc-950 text-zinc-100">
+        <header className="border-b border-zinc-800 bg-zinc-950/90 backdrop-blur">
           <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-4">
             <Link href="/" className="text-lg font-bold tracking-tight">
               Masas Portfolio
@@ -73,7 +73,7 @@ export default function RootLayout({
               <ul className="flex items-center gap-5 text-sm font-medium">
                 {navItems.map((item) => (
                   <li key={item.href}>
-                    <Link href={item.href} className="hover:text-blue-600">
+                    <Link href={item.href} className="hover:text-blue-400">
                       {item.label}
                     </Link>
                   </li>
@@ -85,8 +85,8 @@ export default function RootLayout({
         <main className="mx-auto flex w-full max-w-6xl flex-1 px-6 py-10">
           {children}
         </main>
-        <footer className="border-t border-zinc-200 bg-white">
-          <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-4 text-sm text-zinc-600">
+        <footer className="border-t border-zinc-800 bg-zinc-950">
+          <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-4 text-sm text-zinc-400">
             <p>© {new Date().getFullYear()} Masas</p>
             <p>Built with Next.js + TypeScript</p>
           </div>
