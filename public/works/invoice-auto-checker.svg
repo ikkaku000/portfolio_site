@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#ECFEFF"/>
+  <rect x="70" y="70" width="1060" height="490" rx="24" fill="white" stroke="#A5F3FC" stroke-width="2"/>
+  <rect x="120" y="130" width="460" height="26" rx="6" fill="#0F766E"/>
+  <rect x="120" y="185" width="320" height="14" rx="6" fill="#CBD5E1"/>
+  <rect x="120" y="214" width="280" height="14" rx="6" fill="#CBD5E1"/>
+  <rect x="120" y="260" width="420" height="240" rx="14" fill="#F0FDFA" stroke="#99F6E4"/>
+  <line x1="120" y1="320" x2="540" y2="320" stroke="#99F6E4" stroke-width="2"/>
+  <line x1="120" y1="380" x2="540" y2="380" stroke="#99F6E4" stroke-width="2"/>
+  <line x1="120" y1="440" x2="540" y2="440" stroke="#99F6E4" stroke-width="2"/>
+  <rect x="650" y="130" width="430" height="370" rx="14" fill="#F0FDFA" stroke="#99F6E4"/>
+  <rect x="680" y="180" width="180" height="32" rx="8" fill="#14B8A6"/>
+  <rect x="680" y="235" width="220" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="680" y="262" width="190" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="680" y="320" width="370" height="55" rx="10" fill="#CCFBF1"/>
+  <text x="120" y="112" fill="#1E293B" font-family="Arial, sans-serif" font-size="28" font-weight="700">ΛBψnκΥΔόλ</text>
+  <text x="700" y="202" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="700">ξB 4φ</text>
+</svg>
